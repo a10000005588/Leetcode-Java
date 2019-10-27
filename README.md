@@ -9,4 +9,3 @@
 ## **二、所有题目列表**
 |#|    Title   |Solution|Score|Note|
 |---|-------------| ----- |----|---------|
-|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Java](leetcode/solution/src/TwoSum.java)|||
