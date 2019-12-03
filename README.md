@@ -6,7 +6,7 @@
 偶爾也會放一些跟java開發相關的code在Other目錄
 
 ```
-該筆記會與hackmd上的筆記進行同步
+該Readme會與hackmd上的筆記進行同步
 https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 ```
 
